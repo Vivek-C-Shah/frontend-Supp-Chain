@@ -1,0 +1,18 @@
+.chain-node{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+}
+.chain-node div{
+    margin: 0 1rem;
+}
+.chain-node-text h3, .chain-node-text p{
+    margin: 0;
+    padding: 0;
+}
+.chain-node-media img{
+    border: 2px solid #000;
+    height: 3rem;
+    width: 3rem;
+}
